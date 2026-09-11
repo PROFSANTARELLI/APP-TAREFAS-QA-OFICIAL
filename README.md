@@ -2,7 +2,7 @@ REPOSITÓRIO DA DISCIPLINA QUALITY ASSURANCE & SOFTWARE TESTING - UniFECAF
 
 Professor Flavio Santarelli
 
-Objetivo: Liberar aos alunos a importação inicial do repositório e criar o repositório oficial que acompanhará os laboratórios ao longo dos estudos da disciplina.
+Objetivo: Liberar a importação inicial do repositório que permitirá criar o próprio repositório inidividual oficial pelos alunos e que acompanhará os laboratórios ao longo dos estudos da disciplina.
 
 Contatos:
 
