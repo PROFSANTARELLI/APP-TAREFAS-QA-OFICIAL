@@ -1,49 +1,11 @@
-## Tecnologias utilizadas
+REPOSITÓRIO DA DISCIPLINA QUALITY ASSURANCE & SOFTWARE TESTING - UniFECAF
 
-Exemplo:
+Professor Flavio Santarelli
 
-* Python
-* FastAPI
-* Streamlit
-* SQLite
-* SQLAlchemy
-* Pytest
-* GitHub Actions
+Objetivo: Liberar ao alunos a importação do repositório e criar o seu repositório oficial que acompanhará toda a disciplina.
 
+Contatos:
 
-## Arquitetura
+E-MAIL: flavio.santarelli@pro.fecaf.com.br
 
-Exemplo:
-Usuário
-   ↓
-Streamlit
-   ↓
-FastAPI
-   ↓
-SQLite
-
----
-
-## Como executar
-
-Exemplo:
-pip install -r requirements.txt
-uvicorn backend.main:app --reload
-streamlit run frontend/app.py
----
-
-## Como executar testes
-
-pytest
-
----
-
-## Capturas de tela
-
-Adicionar imagens:
-* Tela principal;
-* Swagger;
-* GitHub Actions.
-
-## Autor
-Inserir informações dos desenvolvedores.
+LINKEDIN: https://www.linkedin.com/in/flavio-santarelli-15834b259/
